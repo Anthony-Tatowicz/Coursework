@@ -1,2 +1,2 @@
 # Coursework
-CSE coursework
+Collection of most of my CSE coursework
